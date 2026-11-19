@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+tqdm
+torch
+gymnasium[box2d]
+pygame
+vizdoom
+stable-baselines3[extra]
+opencv-python
+pillow

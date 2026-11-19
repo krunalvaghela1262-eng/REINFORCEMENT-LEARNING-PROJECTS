@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+app.log
+.ipynb_checkpoints/
+train/
+log/
+_vizdoom.ini
